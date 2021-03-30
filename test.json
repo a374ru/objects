@@ -5,7 +5,6 @@
   "objects": [
   123,
   "строка 123",
-  "function fff(){return 0}",
   true,
   false,
 ]
