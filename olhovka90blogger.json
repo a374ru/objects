@@ -1,18 +1,13 @@
 {
-    "name": "Маленькая библиотека данных",
-    "date": "2021/03/30",
-    "description":"Массив адресов изображений с разных ресурсов. Подготовлено для смены изображений на сайте olhovka-90.blogspot.com",
-    "surl":[
-        "url(http://1.bp.blogspot.com/-uQXa70iQAPI/YGIV4ik6HtI/AAAAAAAAGWU/v6rk-ymfpooABdI_nzuPkKh-R9_KlzTgwCK4BGAYYCw/s1600/TEST-000-765773.jpg)",
-
-        "url(http://3.bp.blogspot.com/-zgwlJyLeqpE/YF84fSOEURI/AAAAAAAAGUc/8VHdC-RBbMIhVGYuHfoZOTBhJx3beCgPwCK4BGAYYCw/s1600/o90-717409.jpeg)",
-
-        "url(https://3.bp.blogspot.com/-zgwlJyLeqpE/YF84fSOEURI/AAAAAAAAGUc/8VHdC-RBbMIhVGYuHfoZOTBhJx3beCgPwCK4BGAYYCw/s1600/o90-717409.jpeg)",
-
-        "url(http://1.bp.blogspot.com/-y-R-iyADoCA/YGA-mhm0UZI/AAAAAAAAGWE/NLTO2rx3EMQ855ZdUldP-hjZMyZVn60vACK4BGAYYCw/s1600/tutu-717548.jpg)",
-
-        "url(https://3.bp.blogspot.com/-1OFNNi3dFbU/XTmagJ9XjtI/AAAAAAAAEVs/5Psm0HHpBiEZ3G5DIhZKoHH4Qen_UvNeACKgBGAs/s1600/0003-ortoprom.jpeg)",
-
-        "url(https://1.bp.blogspot.com/-BNJdtK8HySc/YGAhaHniDnI/AAAAAAAAGVI/owvH7PZ36c8M8lthRieiVWrVWSIfs8teQCK4BGAYYCw/s1600/sp-743583.jpeg)"
-    ]
+  "name": "Маленькая библиотека данных",
+  "date": "2021/03/30",
+  "description": "Массив адресов изображений с разных ресурсов. Подготовлено для смены изображений на сайте olhovka-90.blogspot.com",
+  "surl": [
+    "url(http://1.bp.blogspot.com/-uQXa70iQAPI/YGIV4ik6HtI/AAAAAAAAGWU/v6rk-ymfpooABdI_nzuPkKh-R9_KlzTgwCK4BGAYYCw/s1600/TEST-000-765773.jpg)",
+    "url(http://3.bp.blogspot.com/-zgwlJyLeqpE/YF84fSOEURI/AAAAAAAAGUc/8VHdC-RBbMIhVGYuHfoZOTBhJx3beCgPwCK4BGAYYCw/s1600/o90-717409.jpeg)",
+    "url(https://3.bp.blogspot.com/-zgwlJyLeqpE/YF84fSOEURI/AAAAAAAAGUc/8VHdC-RBbMIhVGYuHfoZOTBhJx3beCgPwCK4BGAYYCw/s1600/o90-717409.jpeg)",
+    "url(http://1.bp.blogspot.com/-y-R-iyADoCA/YGA-mhm0UZI/AAAAAAAAGWE/NLTO2rx3EMQ855ZdUldP-hjZMyZVn60vACK4BGAYYCw/s1600/tutu-717548.jpg)",
+    "url(https://3.bp.blogspot.com/-1OFNNi3dFbU/XTmagJ9XjtI/AAAAAAAAEVs/5Psm0HHpBiEZ3G5DIhZKoHH4Qen_UvNeACKgBGAs/s1600/0003-ortoprom.jpeg)",
+    "url(https://1.bp.blogspot.com/-BNJdtK8HySc/YGAhaHniDnI/AAAAAAAAGVI/owvH7PZ36c8M8lthRieiVWrVWSIfs8teQCK4BGAYYCw/s1600/sp-743583.jpeg)"
+  ]
 }
